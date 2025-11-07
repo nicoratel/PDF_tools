@@ -1,5 +1,3 @@
----
-
 #  PDF_Tools
 
 ## Overview
